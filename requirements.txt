@@ -1,9 +1,0 @@
-cffi==1.17.1
-cryptography==44.0.2
-numpy==2.2.4
-packaging==24.2
-pip @ file:///opt/homebrew/Cellar/python%403.13/3.13.2/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ensurepip/_bundled/pip-25.0-py3-none-any.whl
-pycparser==2.22
-pywatchman==2.0.0
-tbb==0.2
-wheel @ file:///opt/homebrew/Cellar/python%403.13/3.13.2/libexec/wheel-0.45.1-py3-none-any.whl
