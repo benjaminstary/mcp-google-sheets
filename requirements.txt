@@ -5,5 +5,4 @@ packaging==24.2
 pip==25.0
 pycparser==2.22
 pywatchman==2.0.0
-tbb==0.2
 wheel==0.45.1
